@@ -1,4 +1,4 @@
-﻿token=NTE2ODM4MDU2NzU0NDEzNTgx.Dt5eew.eGO35hgiGZqqQMxyQjWAj8XtLPU
+token=NTE2ODM4MDU2NzU0NDEzNTgx.Dt5eew.eGO35hgiGZqqQMxyQjWAj8XtLPU
 owner=435239093182398480
 prefix= 8
 game= 8play
